@@ -1,0 +1,1 @@
+This is the javascript homework from Monday of week 2
